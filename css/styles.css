@@ -1,0 +1,72 @@
+.whole {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.box { 
+    background-color: rgba(239.72550362348557, 251.81250303983688, 214.040629863739, 1);
+    height: 600px;
+    margin: auto;
+    width: 70%;
+}
+
+.name {
+    color: rgba(0, 0, 0, 1);
+    padding-top: 50px;
+    font-family: IBM Plex Mono;
+    text-align: center;
+    font-size: 48px;
+    letter-spacing: 0;
+}
+
+.title { 
+    color: rgba(0, 0, 0, 1);
+    font-family: Courier Prime;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 0;
+}
+
+.at { 
+    color: rgba(0, 0, 0, 1);
+    font-family: Courier Prime;
+    text-align: center;
+    font-size: 72px;
+    letter-spacing: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.group_div {
+    width: 80%;
+    margin: auto;
+}
+
+.group { 
+    color: rgba(0, 0, 0, 1);
+    font-family: Courier Prime;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 0;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+
+.links { 
+    color: rgba(0, 0, 0, 1);
+    font-family: Courier Prime;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 0;
+}
+
+.linkedin { 
+    color: rgba(0, 0, 0, 1);
+    font-family: Courier Prime;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 0;
+    padding-top: 30px;
+}
+
