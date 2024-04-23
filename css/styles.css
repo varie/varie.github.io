@@ -3,9 +3,14 @@
     margin-bottom: 100px;
 }
 
-.box { 
-    background-color: rgba(239.72550362348557, 251.81250303983688, 214.040629863739, 1);
-    height: 650px;
+.box {
+    background-color: rgba(
+        239.72550362348557,
+        251.81250303983688,
+        214.040629863739,
+        1
+    );
+    height: 800px;
     margin: auto;
     width: 70%;
 }
@@ -19,7 +24,7 @@
     letter-spacing: 0;
 }
 
-.title { 
+.title {
     color: rgba(0, 0, 0, 1);
     font-family: Courier Prime;
     text-align: center;
@@ -27,7 +32,7 @@
     letter-spacing: 0;
 }
 
-.at { 
+.at {
     color: rgba(0, 0, 0, 1);
     font-family: Courier Prime;
     text-align: center;
@@ -42,7 +47,7 @@
     margin: auto;
 }
 
-.group { 
+.group {
     color: rgba(0, 0, 0, 1);
     font-family: Courier Prime;
     text-align: center;
@@ -53,7 +58,7 @@
     padding-bottom: 30px;
 }
 
-.links { 
+.links {
     color: rgba(0, 0, 0, 1);
     font-family: Courier Prime;
     text-align: center;
@@ -61,7 +66,7 @@
     letter-spacing: 0;
 }
 
-.linkedin { 
+.linkedin {
     color: rgba(0, 0, 0, 1);
     font-family: Courier Prime;
     text-align: center;
@@ -69,4 +74,3 @@
     letter-spacing: 0;
     padding-top: 30px;
 }
-
